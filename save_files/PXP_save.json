@@ -1,7 +1,7 @@
 {
   "SaveName": "PXP",
-  "EpochTime": 1762717939,
-  "Date": "11/9/2025 8:52:19 PM",
+  "EpochTime": 1762718010,
+  "Date": "11/9/2025 8:53:30 PM",
   "VersionNumber": "v13.3",
   "GameMode": "PXP",
   "GameType": "",
@@ -12641,11 +12641,11 @@
       "GUID": "72b131",
       "Name": "DeckCustom",
       "Transform": {
-        "posX": 15.0742836,
+        "posX": 14.6376648,
         "posY": 1.22644651,
-        "posZ": -0.789356232,
-        "rotX": 1.68543242E-08,
-        "rotY": 180.0,
+        "posZ": -4.2663,
+        "rotX": -8.705793E-08,
+        "rotY": -1.02396953E-08,
         "rotZ": 180.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -15048,11 +15048,11 @@
       "GUID": "ab4be9",
       "Name": "DeckCustom",
       "Transform": {
-        "posX": 15.1628561,
+        "posX": 14.6267223,
         "posY": 1.22644651,
-        "posZ": -4.32281733,
-        "rotX": 8.52937845E-08,
-        "rotY": 180.0,
+        "posZ": -7.82947636,
+        "rotX": -3.13153151E-07,
+        "rotY": -1.676459E-06,
         "rotZ": 180.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -17408,12 +17408,12 @@
           "GUID": "a48351",
           "Name": "Card",
           "Transform": {
-            "posX": 15.2441368,
-            "posY": 1.990558,
-            "posZ": -4.67395,
-            "rotX": -5.008956E-06,
+            "posX": 14.6999664,
+            "posY": 1.51137829,
+            "posZ": -4.77622366,
+            "rotX": -2.42171736E-05,
             "rotY": 180.0,
-            "rotZ": 180.0,
+            "rotZ": -0.000211863109,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -17443,11 +17443,23 @@
           "Sticky": true,
           "Tooltip": true,
           "GridProjection": false,
+          "HideWhenFaceDown": true,
           "Hands": true,
           "CardID": 550,
           "SidewaysCard": false,
-          "XmlUI": "",
-          "ContainedObjects": []
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/10235380170112173874/EFC2E84E17A1212C23A676C7764A112C7B136EF1/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/15539911235131152673/0DA5FF5D3551EB86DC21A72633C978CA27D0E391/",
+              "NumWidth": 10,
+              "NumHeight": 6,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "XmlUI": ""
         }
       ]
     },
@@ -17455,11 +17467,11 @@
       "GUID": "ce343b",
       "Name": "DeckCustom",
       "Transform": {
-        "posX": 15.0873947,
-        "posY": 1.24570262,
-        "posZ": -7.85601854,
-        "rotX": -1.17649442E-07,
-        "rotY": 180.0,
+        "posX": 14.60483,
+        "posY": 1.24570274,
+        "posZ": -0.7135778,
+        "rotX": 1.78504536E-08,
+        "rotY": 5.021023E-09,
         "rotZ": 180.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
