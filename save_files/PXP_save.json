@@ -1,7 +1,7 @@
 {
   "SaveName": "PXP",
-  "EpochTime": 1762718010,
-  "Date": "11/9/2025 8:53:30 PM",
+  "EpochTime": 1763912547,
+  "Date": "11/23/2025 4:42:27 PM",
   "VersionNumber": "v13.3",
   "GameMode": "PXP",
   "GameType": "",
@@ -147,22 +147,22 @@
     }
   },
   "Grid": {
-    "Type": 0,
+    "Type": 2,
     "Lines": false,
     "Color": {
       "r": 0.0,
       "g": 0.0,
       "b": 0.0
     },
-    "Opacity": 0.75,
+    "Opacity": 0.684482753,
     "ThickLines": false,
     "Snapping": false,
-    "Offset": false,
+    "Offset": true,
     "BothSnapping": false,
-    "xSize": 2.0,
-    "ySize": 2.0,
+    "xSize": 3.35,
+    "ySize": 3.35,
     "PosOffset": {
-      "x": 0.0,
+      "x": 0.8,
       "y": 1.0,
       "z": 0.0
     }
@@ -595,543 +595,6 @@
       "XmlUI": ""
     },
     {
-      "GUID": "e09333",
-      "Name": "Chess_Board",
-      "Transform": {
-        "posX": 0.6101139,
-        "posY": 1.71581364,
-        "posZ": -0.124490812,
-        "rotX": 0.0,
-        "rotY": 0.0,
-        "rotZ": 0.0,
-        "scaleX": 1.0,
-        "scaleY": 1.0,
-        "scaleZ": 1.0
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": true,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "AttachedSnapPoints": [
-        {
-          "Position": {
-            "x": -5.95000029,
-            "y": 0.0,
-            "z": -5.95000029
-          }
-        },
-        {
-          "Position": {
-            "x": -5.95000029,
-            "y": 0.0,
-            "z": -4.25
-          }
-        },
-        {
-          "Position": {
-            "x": -5.95000029,
-            "y": 0.0,
-            "z": -2.55000019
-          }
-        },
-        {
-          "Position": {
-            "x": -5.95000029,
-            "y": 0.0,
-            "z": -0.8500004
-          }
-        },
-        {
-          "Position": {
-            "x": -5.95000029,
-            "y": 0.0,
-            "z": 0.8499994
-          }
-        },
-        {
-          "Position": {
-            "x": -5.95000029,
-            "y": 0.0,
-            "z": 2.54999924
-          }
-        },
-        {
-          "Position": {
-            "x": -5.95000029,
-            "y": 0.0,
-            "z": 4.249999
-          }
-        },
-        {
-          "Position": {
-            "x": -5.95000029,
-            "y": 0.0,
-            "z": 5.949999
-          }
-        },
-        {
-          "Position": {
-            "x": -4.25,
-            "y": 0.0,
-            "z": -5.95000029
-          }
-        },
-        {
-          "Position": {
-            "x": -4.25,
-            "y": 0.0,
-            "z": -4.25
-          }
-        },
-        {
-          "Position": {
-            "x": -4.25,
-            "y": 0.0,
-            "z": -2.55000019
-          }
-        },
-        {
-          "Position": {
-            "x": -4.25,
-            "y": 0.0,
-            "z": -0.8500004
-          }
-        },
-        {
-          "Position": {
-            "x": -4.25,
-            "y": 0.0,
-            "z": 0.8499994
-          }
-        },
-        {
-          "Position": {
-            "x": -4.25,
-            "y": 0.0,
-            "z": 2.54999924
-          }
-        },
-        {
-          "Position": {
-            "x": -4.25,
-            "y": 0.0,
-            "z": 4.249999
-          }
-        },
-        {
-          "Position": {
-            "x": -4.25,
-            "y": 0.0,
-            "z": 5.949999
-          }
-        },
-        {
-          "Position": {
-            "x": -2.55000019,
-            "y": 0.0,
-            "z": -5.95000029
-          }
-        },
-        {
-          "Position": {
-            "x": -2.55000019,
-            "y": 0.0,
-            "z": -4.25
-          }
-        },
-        {
-          "Position": {
-            "x": -2.55000019,
-            "y": 0.0,
-            "z": -2.55000019
-          }
-        },
-        {
-          "Position": {
-            "x": -2.55000019,
-            "y": 0.0,
-            "z": -0.8500004
-          }
-        },
-        {
-          "Position": {
-            "x": -2.55000019,
-            "y": 0.0,
-            "z": 0.8499994
-          }
-        },
-        {
-          "Position": {
-            "x": -2.55000019,
-            "y": 0.0,
-            "z": 2.54999924
-          }
-        },
-        {
-          "Position": {
-            "x": -2.55000019,
-            "y": 0.0,
-            "z": 4.249999
-          }
-        },
-        {
-          "Position": {
-            "x": -2.55000019,
-            "y": 0.0,
-            "z": 5.949999
-          }
-        },
-        {
-          "Position": {
-            "x": -0.8500004,
-            "y": 0.0,
-            "z": -5.95000029
-          }
-        },
-        {
-          "Position": {
-            "x": -0.8500004,
-            "y": 0.0,
-            "z": -4.25
-          }
-        },
-        {
-          "Position": {
-            "x": -0.8500004,
-            "y": 0.0,
-            "z": -2.55000019
-          }
-        },
-        {
-          "Position": {
-            "x": -0.8500004,
-            "y": 0.0,
-            "z": -0.8500004
-          }
-        },
-        {
-          "Position": {
-            "x": -0.8500004,
-            "y": 0.0,
-            "z": 0.8499994
-          }
-        },
-        {
-          "Position": {
-            "x": -0.8500004,
-            "y": 0.0,
-            "z": 2.54999924
-          }
-        },
-        {
-          "Position": {
-            "x": -0.8500004,
-            "y": 0.0,
-            "z": 4.249999
-          }
-        },
-        {
-          "Position": {
-            "x": -0.8500004,
-            "y": 0.0,
-            "z": 5.949999
-          }
-        },
-        {
-          "Position": {
-            "x": 0.8499994,
-            "y": 0.0,
-            "z": -5.95000029
-          }
-        },
-        {
-          "Position": {
-            "x": 0.8499994,
-            "y": 0.0,
-            "z": -4.25
-          }
-        },
-        {
-          "Position": {
-            "x": 0.8499994,
-            "y": 0.0,
-            "z": -2.55000019
-          }
-        },
-        {
-          "Position": {
-            "x": 0.8499994,
-            "y": 0.0,
-            "z": -0.8500004
-          }
-        },
-        {
-          "Position": {
-            "x": 0.8499994,
-            "y": 0.0,
-            "z": 0.8499994
-          }
-        },
-        {
-          "Position": {
-            "x": 0.8499994,
-            "y": 0.0,
-            "z": 2.54999924
-          }
-        },
-        {
-          "Position": {
-            "x": 0.8499994,
-            "y": 0.0,
-            "z": 4.249999
-          }
-        },
-        {
-          "Position": {
-            "x": 0.8499994,
-            "y": 0.0,
-            "z": 5.949999
-          }
-        },
-        {
-          "Position": {
-            "x": 2.54999924,
-            "y": 0.0,
-            "z": -5.95000029
-          }
-        },
-        {
-          "Position": {
-            "x": 2.54999924,
-            "y": 0.0,
-            "z": -4.25
-          }
-        },
-        {
-          "Position": {
-            "x": 2.54999924,
-            "y": 0.0,
-            "z": -2.55000019
-          }
-        },
-        {
-          "Position": {
-            "x": 2.54999924,
-            "y": 0.0,
-            "z": -0.8500004
-          }
-        },
-        {
-          "Position": {
-            "x": 2.54999924,
-            "y": 0.0,
-            "z": 0.8499994
-          }
-        },
-        {
-          "Position": {
-            "x": 2.54999924,
-            "y": 0.0,
-            "z": 2.54999924
-          }
-        },
-        {
-          "Position": {
-            "x": 2.54999924,
-            "y": 0.0,
-            "z": 4.249999
-          }
-        },
-        {
-          "Position": {
-            "x": 2.54999924,
-            "y": 0.0,
-            "z": 5.949999
-          }
-        },
-        {
-          "Position": {
-            "x": 4.249999,
-            "y": 0.0,
-            "z": -5.95000029
-          }
-        },
-        {
-          "Position": {
-            "x": 4.249999,
-            "y": 0.0,
-            "z": -4.25
-          }
-        },
-        {
-          "Position": {
-            "x": 4.249999,
-            "y": 0.0,
-            "z": -2.55000019
-          }
-        },
-        {
-          "Position": {
-            "x": 4.249999,
-            "y": 0.0,
-            "z": -0.8500004
-          }
-        },
-        {
-          "Position": {
-            "x": 4.249999,
-            "y": 0.0,
-            "z": 0.8499994
-          }
-        },
-        {
-          "Position": {
-            "x": 4.249999,
-            "y": 0.0,
-            "z": 2.54999924
-          }
-        },
-        {
-          "Position": {
-            "x": 4.249999,
-            "y": 0.0,
-            "z": 4.249999
-          }
-        },
-        {
-          "Position": {
-            "x": 4.249999,
-            "y": 0.0,
-            "z": 5.949999
-          }
-        },
-        {
-          "Position": {
-            "x": 5.949999,
-            "y": 0.0,
-            "z": -5.95000029
-          }
-        },
-        {
-          "Position": {
-            "x": 5.949999,
-            "y": 0.0,
-            "z": -4.25
-          }
-        },
-        {
-          "Position": {
-            "x": 5.949999,
-            "y": 0.0,
-            "z": -2.55000019
-          }
-        },
-        {
-          "Position": {
-            "x": 5.949999,
-            "y": 0.0,
-            "z": -0.8500004
-          }
-        },
-        {
-          "Position": {
-            "x": 5.949999,
-            "y": 0.0,
-            "z": 0.8499994
-          }
-        },
-        {
-          "Position": {
-            "x": 5.949999,
-            "y": 0.0,
-            "z": 2.54999924
-          }
-        },
-        {
-          "Position": {
-            "x": 5.949999,
-            "y": 0.0,
-            "z": 4.249999
-          }
-        },
-        {
-          "Position": {
-            "x": 5.949999,
-            "y": 0.0,
-            "z": 5.949999
-          }
-        }
-      ],
-      "AttachedVectorLines": [
-        {
-          "points3": [
-            {
-              "x": -6.75869274,
-              "y": 0.009875298,
-              "z": -3.3918438
-            },
-            {
-              "x": 6.791186,
-              "y": 0.009875298,
-              "z": -3.37455845
-            }
-          ],
-          "color": {
-            "r": 1.0,
-            "g": 0.0,
-            "b": 0.0
-          },
-          "thickness": 0.1
-        },
-        {
-          "points3": [
-            {
-              "x": -6.778161,
-              "y": 0.009876251,
-              "z": 3.36269236
-            },
-            {
-              "x": 6.77053642,
-              "y": 0.009876251,
-              "z": 3.37956715
-            }
-          ],
-          "color": {
-            "r": 1.0,
-            "g": 0.0,
-            "b": 0.0
-          },
-          "thickness": 0.1
-        }
-      ]
-    },
-    {
       "GUID": "340eb3",
       "Name": "HandTrigger",
       "Transform": {
@@ -1511,12 +974,12 @@
       "GUID": "723b9e",
       "Name": "Figurine_Custom",
       "Transform": {
-        "posX": 10.7812138,
-        "posY": 1.12704539,
-        "posZ": 2.75534248,
-        "rotX": -2.32468579E-07,
-        "rotY": -0.00122835324,
-        "rotZ": 1.06719639E-07,
+        "posX": 15.3061972,
+        "posY": 1.12704551,
+        "posZ": 11.0991821,
+        "rotX": 8.02541962E-08,
+        "rotY": -0.00122696033,
+        "rotZ": -5.47248141E-12,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1562,12 +1025,12 @@
       "GUID": "87370d",
       "Name": "Figurine_Custom",
       "Transform": {
-        "posX": -9.448511,
+        "posX": -16.18422,
         "posY": 1.12704515,
-        "posZ": -4.98314762,
-        "rotX": 1.47393948E-07,
-        "rotY": -0.000721506251,
-        "rotZ": 1.73123252E-10,
+        "posZ": -12.4250164,
+        "rotX": -4.82924776E-08,
+        "rotY": -0.000720817246,
+        "rotZ": -3.19990932E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1613,12 +1076,12 @@
       "GUID": "78c875",
       "Name": "Figurine_Custom",
       "Transform": {
-        "posX": 10.8311462,
+        "posX": 15.35613,
         "posY": 1.12704539,
-        "posZ": 4.79485369,
-        "rotX": 5.97651137E-08,
-        "rotY": -0.00120249682,
-        "rotZ": 1.06716563E-07,
+        "posZ": 13.1386929,
+        "rotX": -2.56376921E-07,
+        "rotY": -0.00120441569,
+        "rotZ": -1.77383444E-12,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1664,12 +1127,12 @@
       "GUID": "7760cb",
       "Name": "Figurine_Custom",
       "Transform": {
-        "posX": 10.82259,
-        "posY": 1.12704539,
-        "posZ": 6.778751,
-        "rotX": 1.88426114E-07,
-        "rotY": 0.011301198,
-        "rotZ": 1.06782622E-07,
+        "posX": 15.3475733,
+        "posY": 1.12704527,
+        "posZ": 15.12259,
+        "rotX": 1.08627304E-07,
+        "rotY": 0.0113001587,
+        "rotZ": -1.06668665E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1715,12 +1178,12 @@
       "GUID": "4ec77e",
       "Name": "Figurine_Custom",
       "Transform": {
-        "posX": -9.465223,
+        "posX": -16.2009315,
         "posY": 1.12704539,
-        "posZ": -2.995223,
-        "rotX": -2.29344255E-06,
-        "rotY": 0.0265726633,
-        "rotZ": -2.138419E-07,
+        "posZ": -10.4370871,
+        "rotX": -2.29279323E-07,
+        "rotY": 0.0264983289,
+        "rotZ": -2.13363961E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1766,12 +1229,12 @@
       "GUID": "0e6ca9",
       "Name": "Figurine_Custom",
       "Transform": {
-        "posX": -9.411389,
-        "posY": 1.12704515,
-        "posZ": -6.94166851,
-        "rotX": 1.31620368E-07,
+        "posX": -16.1470966,
+        "posY": 1.12704527,
+        "posZ": -14.3835373,
+        "rotX": -5.23267829E-07,
         "rotY": 359.9933,
-        "rotZ": -1.06754712E-07,
+        "rotZ": -2.13437929E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1817,12 +1280,12 @@
       "GUID": "27a2f1",
       "Name": "Counter",
       "Transform": {
-        "posX": 0.627872944,
-        "posY": 0.93,
-        "posZ": -10.2775469,
-        "rotX": -6.07028454E-08,
-        "rotY": 0.0003218171,
-        "rotZ": 2.37111379E-08,
+        "posX": 0.5007524,
+        "posY": 0.9299998,
+        "posZ": -14.9082766,
+        "rotX": -2.08598408E-07,
+        "rotY": 0.0003195129,
+        "rotZ": 1.28326732E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1865,12 +1328,12 @@
       "GUID": "98b13c",
       "Name": "Counter",
       "Transform": {
-        "posX": 4.84371948,
+        "posX": 4.145016,
         "posY": 0.9299998,
-        "posZ": 10.3336258,
-        "rotX": -4.561114E-07,
+        "posZ": 14.684577,
+        "rotX": -8.412643E-08,
         "rotY": 180.0,
-        "rotZ": -8.839834E-08,
+        "rotZ": -5.77482062E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1913,12 +1376,12 @@
       "GUID": "b0608b",
       "Name": "Counter",
       "Transform": {
-        "posX": 4.848313,
-        "posY": 0.930000067,
-        "posZ": -10.2650862,
-        "rotX": -2.71431134E-07,
-        "rotY": -6.12704662E-06,
-        "rotZ": -7.995526E-08,
+        "posX": 4.721192,
+        "posY": 0.929999948,
+        "posZ": -14.8958158,
+        "rotX": -3.45639961E-07,
+        "rotY": -8.005662E-06,
+        "rotZ": -3.13480868E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1961,12 +1424,12 @@
       "GUID": "19bb8c",
       "Name": "Counter",
       "Transform": {
-        "posX": 0.8368614,
+        "posX": 0.138158,
         "posY": 0.930000067,
-        "posZ": 10.3359213,
-        "rotX": -2.78304526E-07,
+        "posZ": 14.6868725,
+        "rotX": -1.59044873E-07,
         "rotY": 180.0,
-        "rotZ": -1.94176167E-07,
+        "rotZ": -1.28854282E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2009,12 +1472,12 @@
       "GUID": "6a47cf",
       "Name": "Counter",
       "Transform": {
-        "posX": -3.10492158,
+        "posX": -3.80362535,
         "posY": 0.929999948,
-        "posZ": 10.3214779,
-        "rotX": -1.56947863E-07,
-        "rotY": 180.0018,
-        "rotZ": 1.93362823E-07,
+        "posZ": 14.6724291,
+        "rotX": 1.89963423E-08,
+        "rotY": 180.001785,
+        "rotZ": -2.42451978E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2057,12 +1520,12 @@
       "GUID": "1263ad",
       "Name": "Counter",
       "Transform": {
-        "posX": -3.73247862,
+        "posX": -3.859599,
         "posY": 0.9299998,
-        "posZ": -10.1802654,
-        "rotX": -3.52738851E-07,
-        "rotY": 0.00115424255,
-        "rotZ": 2.287752E-08,
+        "posZ": -14.8109951,
+        "rotX": -3.62401835E-07,
+        "rotY": 0.00115226256,
+        "rotZ": 1.86838225E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2105,11 +1568,11 @@
       "GUID": "8fbf82",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -11.4459858,
-        "posY": 1.159289,
-        "posZ": -5.100437,
-        "rotX": 0.02810383,
-        "rotY": 179.9997,
+        "posX": -18.18166,
+        "posY": 1.15928924,
+        "posZ": -12.54222,
+        "rotX": 0.0281510577,
+        "rotY": 179.999741,
         "rotZ": 359.984863,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
@@ -2162,12 +1625,12 @@
       "GUID": "8db291",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -11.5375891,
-        "posY": 0.9599025,
-        "posZ": -5.108629,
-        "rotX": 0.00199113972,
-        "rotY": 179.9751,
-        "rotZ": 359.990662,
+        "posX": -18.2732563,
+        "posY": 0.959902465,
+        "posZ": -12.5503712,
+        "rotX": 0.001999497,
+        "rotY": 179.9744,
+        "rotZ": 359.990631,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -2219,12 +1682,12 @@
       "GUID": "925e1b",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -11.4156837,
-        "posY": 1.05955744,
-        "posZ": -5.1544404,
-        "rotX": 0.025604587,
-        "rotY": 180.000687,
-        "rotZ": -0.00144635164,
+        "posX": -18.1513233,
+        "posY": 1.05955768,
+        "posZ": -12.59622,
+        "rotX": 0.0256422777,
+        "rotY": 180.000427,
+        "rotZ": -0.001460792,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -2276,12 +1739,12 @@
       "GUID": "9524ea",
       "Name": "Custom_Tile_Stack",
       "Transform": {
-        "posX": -10.8512716,
-        "posY": 0.9099999,
-        "posZ": 1.49822259,
-        "rotX": -8.429885E-07,
-        "rotY": 180.001022,
-        "rotZ": -1.292644E-06,
+        "posX": -17.58698,
+        "posY": 0.91,
+        "posZ": -5.94364643,
+        "rotX": -8.84768156E-07,
+        "rotY": 180.001038,
+        "rotZ": -1.40549071E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2336,12 +1799,12 @@
       "GUID": "3853f8",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -13.2904606,
+        "posX": -20.02616,
         "posY": 0.9599994,
-        "posZ": -5.07393265,
-        "rotX": 1.71872161E-05,
-        "rotY": 180.000122,
-        "rotZ": -7.601406E-05,
+        "posZ": -12.5158043,
+        "rotX": 1.6224154E-05,
+        "rotY": 180.000244,
+        "rotZ": -7.362853E-05,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -2393,12 +1856,12 @@
       "GUID": "0a1986",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -15.0240412,
-        "posY": 0.9599936,
-        "posZ": -5.062239,
-        "rotX": 0.0001326537,
-        "rotY": 180.00206,
-        "rotZ": -0.000620844,
+        "posX": -21.7597427,
+        "posY": 0.959993839,
+        "posZ": -12.5041132,
+        "rotX": 0.000134176313,
+        "rotY": 180.002228,
+        "rotZ": -0.0006246751,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -2450,12 +1913,12 @@
       "GUID": "86ee33",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -14.983983,
+        "posX": -21.71969,
         "posY": 1.05996621,
-        "posZ": -5.061068,
-        "rotX": -0.00173638051,
+        "posZ": -12.5029354,
+        "rotX": -0.00172855926,
         "rotY": 179.999863,
-        "rotZ": -0.0005242536,
+        "rotZ": -0.0005331877,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -2507,11 +1970,11 @@
       "GUID": "a916a8",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -13.3594,
+        "posX": -20.095108,
         "posY": 1.15998483,
-        "posZ": -5.062288,
-        "rotX": -0.0006203568,
-        "rotY": 179.999969,
+        "posZ": -12.5041552,
+        "rotX": -0.000622950552,
+        "rotY": 179.999878,
         "rotZ": 179.997925,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
@@ -2564,12 +2027,12 @@
       "GUID": "4c8cf4",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -11.4395552,
+        "posX": -18.1752567,
         "posY": 0.9599983,
-        "posZ": -6.894878,
-        "rotX": 4.50754524E-05,
-        "rotY": 180.030228,
-        "rotZ": -0.000194411012,
+        "posZ": -14.3367519,
+        "rotX": 4.1890522E-05,
+        "rotY": 180.0304,
+        "rotZ": -0.0001902115,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -2621,12 +2084,12 @@
       "GUID": "19e3c0",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -11.4451275,
-        "posY": 1.05997968,
-        "posZ": -6.812816,
-        "rotX": -0.0009279086,
+        "posX": -18.1808376,
+        "posY": 1.0599798,
+        "posZ": -14.2546854,
+        "rotX": -0.0009332828,
         "rotY": 179.999771,
-        "rotZ": -0.00204366422,
+        "rotZ": -0.00202694116,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -2678,12 +2141,12 @@
       "GUID": "bfecfe",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -13.3435888,
-        "posY": 0.959999144,
-        "posZ": -6.83365631,
-        "rotX": 2.70359542E-05,
-        "rotY": 180.033432,
-        "rotZ": -0.00011354719,
+        "posX": -20.0792885,
+        "posY": 0.9599992,
+        "posZ": -14.275528,
+        "rotX": 2.52420887E-05,
+        "rotY": 180.033569,
+        "rotZ": -0.000116106705,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -2735,12 +2198,12 @@
       "GUID": "d86a59",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -13.385705,
+        "posX": -20.1214123,
         "posY": 1.05998409,
-        "posZ": -6.80722332,
-        "rotX": -0.000632502837,
-        "rotY": 180.004654,
-        "rotZ": -0.00201748172,
+        "posZ": -14.2490911,
+        "rotX": -0.0006397974,
+        "rotY": 180.004562,
+        "rotZ": -0.002026871,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -2792,12 +2255,12 @@
       "GUID": "244ddd",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -15.0876875,
+        "posX": -21.8233871,
         "posY": 0.9599988,
-        "posZ": -6.8598094,
-        "rotX": 3.287447E-05,
-        "rotY": 179.989578,
-        "rotZ": -0.000138973221,
+        "posZ": -14.3016815,
+        "rotX": 3.340817E-05,
+        "rotY": 179.989761,
+        "rotZ": -0.000138307223,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -2849,12 +2312,12 @@
       "GUID": "4ffab1",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -15.11045,
+        "posX": -21.846159,
         "posY": 1.05998373,
-        "posZ": -6.84305525,
-        "rotX": -0.0005563119,
-        "rotY": 180.0159,
-        "rotZ": -0.00203337916,
+        "posZ": -14.2849255,
+        "rotX": -0.0005539114,
+        "rotY": 180.015823,
+        "rotZ": -0.00203068345,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -2906,12 +2369,12 @@
       "GUID": "e8446a",
       "Name": "Tileset_Wall",
       "Transform": {
-        "posX": 15.6744432,
-        "posY": 0.9600004,
-        "posZ": 2.47707558,
-        "rotX": 4.541237E-08,
-        "rotY": 0.04758873,
-        "rotZ": 4.08212463E-06,
+        "posX": 20.6250038,
+        "posY": 0.960000038,
+        "posZ": 10.7250023,
+        "rotX": -1.03905836E-06,
+        "rotY": 0.0231174957,
+        "rotZ": -1.60292188E-07,
         "scaleX": 0.825000167,
         "scaleY": 0.825000167,
         "scaleZ": 0.825000167
@@ -2951,12 +2414,12 @@
       "GUID": "2fe0ff",
       "Name": "Tileset_Wall",
       "Transform": {
-        "posX": 14.0250025,
-        "posY": 0.959999561,
-        "posZ": 2.47500086,
-        "rotX": 4.71912472E-06,
-        "rotY": 0.000825565658,
-        "rotZ": 1.66786634E-07,
+        "posX": 18.9750042,
+        "posY": 0.960000157,
+        "posZ": 10.7250023,
+        "rotX": 1.2982224E-06,
+        "rotY": 0.0008222908,
+        "rotZ": -1.133825E-07,
         "scaleX": 0.825000167,
         "scaleY": 0.825000167,
         "scaleZ": 0.825000167
@@ -2996,12 +2459,12 @@
       "GUID": "ab9d2b",
       "Name": "Tileset_Wall",
       "Transform": {
-        "posX": 17.323349,
-        "posY": 0.960000157,
-        "posZ": 2.48148561,
-        "rotX": -1.44964326E-06,
-        "rotY": 0.297536373,
-        "rotZ": -1.25774829E-06,
+        "posX": 22.2750053,
+        "posY": 0.960000038,
+        "posZ": 10.7250032,
+        "rotX": 7.62668E-06,
+        "rotY": 0.0134733133,
+        "rotZ": -8.79557433E-07,
         "scaleX": 0.825000167,
         "scaleY": 0.825000167,
         "scaleZ": 0.825000167
@@ -3041,12 +2504,12 @@
       "GUID": "38d670",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 12.7506065,
-        "posY": 0.959954262,
-        "posZ": 6.772241,
-        "rotX": 0.001011041,
-        "rotY": 180.016327,
-        "rotZ": -0.004495978,
+        "posX": 17.2761536,
+        "posY": 0.9599543,
+        "posZ": 15.1161213,
+        "rotX": 0.0009964993,
+        "rotY": 180.015442,
+        "rotZ": -0.004506462,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -3098,12 +2561,12 @@
       "GUID": "7a2d26",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 12.7147083,
-        "posY": 1.05950665,
-        "posZ": 6.79754448,
-        "rotX": 0.0002311186,
-        "rotY": 180.015091,
-        "rotZ": 359.9539,
+        "posX": 17.2401485,
+        "posY": 1.05962682,
+        "posZ": 15.1414385,
+        "rotX": -0.003298275,
+        "rotY": 180.013,
+        "rotZ": 359.9628,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -3155,12 +2618,12 @@
       "GUID": "3b6226",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 12.6880541,
-        "posY": 1.15938365,
-        "posZ": 6.74310827,
-        "rotX": 0.009908126,
-        "rotY": 180.019318,
-        "rotZ": 359.9518,
+        "posX": 17.213377,
+        "posY": 1.15926468,
+        "posZ": 15.0869761,
+        "rotX": 0.0115657635,
+        "rotY": 180.018478,
+        "rotZ": 359.9437,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -3209,1438 +2672,13 @@
       "XmlUI": ""
     },
     {
-      "GUID": "f9064a",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.6552153,
-        "posY": 0.957793653,
-        "posZ": 6.825223,
-        "rotX": 0.0461767763,
-        "rotY": 180.025253,
-        "rotZ": 359.789032,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "f8d57c",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.5777235,
-        "posY": 1.047332,
-        "posZ": 6.911674,
-        "rotX": 0.5721929,
-        "rotY": 180.038376,
-        "rotZ": 359.838531,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "343125",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.5791874,
-        "posY": 1.13003433,
-        "posZ": 6.906672,
-        "rotX": 1.43221056,
-        "rotY": 180.0354,
-        "rotZ": 0.0152210081,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "881a9e",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.5796862,
-        "posY": 1.22538793,
-        "posZ": 6.90252447,
-        "rotX": 1.93744206,
-        "rotY": 180.069122,
-        "rotZ": 0.180397049,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "c792ce",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.5792246,
-        "posY": 1.308875,
-        "posZ": 6.892512,
-        "rotX": 2.71741962,
-        "rotY": 180.060181,
-        "rotZ": 0.337562442,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "76717d",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.5794353,
-        "posY": 1.40391493,
-        "posZ": 6.886541,
-        "rotX": 2.54931641,
-        "rotY": 180.048462,
-        "rotZ": 0.863540947,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "0ff7ea",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.5825958,
-        "posY": 1.49376833,
-        "posZ": 6.876685,
-        "rotX": 3.10413265,
-        "rotY": 180.119232,
-        "rotZ": 1.01037586,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "37971f",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.583847,
-        "posY": 1.57918108,
-        "posZ": 6.865058,
-        "rotX": 3.71348548,
-        "rotY": 180.294815,
-        "rotZ": 1.16355526,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "73e1ef",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.5873718,
-        "posY": 1.67485726,
-        "posZ": 6.85530758,
-        "rotX": 4.122042,
-        "rotY": 180.344666,
-        "rotZ": 1.29191744,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "555d0b",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.5859566,
-        "posY": 1.76192153,
-        "posZ": 6.84673548,
-        "rotX": 4.623003,
-        "rotY": 180.34964,
-        "rotZ": 1.16931427,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "94183c",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.5894165,
-        "posY": 1.85780573,
-        "posZ": 6.83572674,
-        "rotX": 4.991346,
-        "rotY": 180.403656,
-        "rotZ": 1.28414941,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "de1edc",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.5983458,
-        "posY": 1.946215,
-        "posZ": 6.82795572,
-        "rotX": 5.3991046,
-        "rotY": 180.5024,
-        "rotZ": 1.36239278,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "510055",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.5987272,
-        "posY": 2.04301023,
-        "posZ": 6.821615,
-        "rotX": 5.29471159,
-        "rotY": 180.448166,
-        "rotZ": 1.02559769,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "df2c8d",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.6110954,
-        "posY": 2.13221645,
-        "posZ": 6.806114,
-        "rotX": 5.61889124,
-        "rotY": 180.582336,
-        "rotZ": 1.0763886,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "ae3f8a",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.6099205,
-        "posY": 2.23098278,
-        "posZ": 6.81435966,
-        "rotX": 5.531052,
-        "rotY": 180.5962,
-        "rotZ": 0.8040181,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "1344d6",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.6005,
-        "posY": 2.32236576,
-        "posZ": 6.802443,
-        "rotX": 5.27935362,
-        "rotY": 180.4827,
-        "rotZ": 0.838522553,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "a7e2fa",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.6051846,
-        "posY": 2.417114,
-        "posZ": 6.789241,
-        "rotX": 5.212067,
-        "rotY": 180.518326,
-        "rotZ": 0.6007626,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "4a3287",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.6310549,
-        "posY": 2.51450849,
-        "posZ": 6.781491,
-        "rotX": 5.15069246,
-        "rotY": 180.675583,
-        "rotZ": 0.828588843,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "d29dee",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.6130981,
-        "posY": 2.61258078,
-        "posZ": 6.814104,
-        "rotX": 5.09371328,
-        "rotY": 180.487976,
-        "rotZ": 0.613308132,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "76cd10",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.60859,
-        "posY": 2.7101512,
-        "posZ": 6.798193,
-        "rotX": 4.93592834,
-        "rotY": 180.4905,
-        "rotZ": 0.6594115,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "952a2a",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.5966,
-        "posY": 2.80661845,
-        "posZ": 6.79752541,
-        "rotX": 5.05607939,
-        "rotY": 180.530823,
-        "rotZ": 0.700451851,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "7f2dc7",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.6281385,
-        "posY": 2.905921,
-        "posZ": 6.800011,
-        "rotX": 4.95528,
-        "rotY": 180.53186,
-        "rotZ": 0.7310184,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "fa0063",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.6359072,
-        "posY": 3.00230265,
-        "posZ": 6.782441,
-        "rotX": 4.921701,
-        "rotY": 180.487671,
-        "rotZ": 0.6492383,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "0ed19a",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.6549721,
-        "posY": 3.10278177,
-        "posZ": 6.791281,
-        "rotX": 4.87258959,
-        "rotY": 180.504868,
-        "rotZ": 0.6658116,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "e7f47d",
-      "Name": "Custom_Tile",
-      "Transform": {
-        "posX": 14.6530066,
-        "posY": 3.2028482,
-        "posZ": 6.79689074,
-        "rotX": 4.85890627,
-        "rotY": 180.434647,
-        "rotZ": 0.6352699,
-        "scaleX": 0.7602123,
-        "scaleY": 1.0,
-        "scaleZ": 0.7602123
-      },
-      "Nickname": "",
-      "Description": "",
-      "GMNotes": "",
-      "AltLookAngle": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomImage": {
-        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
-        "ImageScalar": 1.0,
-        "WidthScale": 0.0,
-        "CustomTile": {
-          "Type": 3,
-          "Thickness": 0.1,
-          "Stackable": false,
-          "Stretch": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
       "GUID": "3ba88d",
       "Name": "Quarter",
       "Transform": {
-        "posX": -13.1688538,
-        "posY": 1.05914247,
-        "posZ": 1.19248438,
-        "rotX": 9.496704E-07,
+        "posX": -19.904562,
+        "posY": 1.05914259,
+        "posZ": -6.2493844,
+        "rotX": 8.98998138E-08,
         "rotY": 359.9826,
         "rotZ": 180.0,
         "scaleX": 1.0,
@@ -4700,12 +2738,12 @@
       "GUID": "0b75b1",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 12.8087654,
+        "posX": 17.3337555,
         "posY": 0.959995,
-        "posZ": 4.863365,
-        "rotX": 0.0001053798,
-        "rotY": 179.950821,
-        "rotZ": -0.0004952692,
+        "posZ": 13.2071877,
+        "rotX": 0.000102337988,
+        "rotY": 179.979721,
+        "rotZ": -0.0004968195,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -4757,12 +2795,12 @@
       "GUID": "bef9fa",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 12.8240414,
+        "posX": 17.3490276,
         "posY": 1.05997145,
-        "posZ": 4.973646,
-        "rotX": -0.00223205215,
-        "rotY": 179.999969,
-        "rotZ": -0.000354690361,
+        "posZ": 13.317481,
+        "rotX": -0.00223592017,
+        "rotY": 180.000076,
+        "rotZ": -0.00034996093,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -4814,12 +2852,12 @@
       "GUID": "534191",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 14.6848145,
-        "posY": 0.9599952,
-        "posZ": 4.94077,
-        "rotX": 0.000104928869,
+        "posX": 19.2098083,
+        "posY": 0.95999527,
+        "posZ": 13.2846193,
+        "rotX": 0.000104828214,
         "rotY": 179.979431,
-        "rotZ": -0.000469465624,
+        "rotZ": -0.000474697357,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -4871,12 +2909,12 @@
       "GUID": "96631a",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 14.6534805,
+        "posX": 19.1784668,
         "posY": 1.05997443,
-        "posZ": 5.023356,
-        "rotX": 0.0016166186,
-        "rotY": 180.000031,
-        "rotZ": -0.000749129336,
+        "posZ": 13.3672,
+        "rotX": 0.00161457271,
+        "rotY": 180.000046,
+        "rotZ": -0.000755838642,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -4928,12 +2966,12 @@
       "GUID": "227804",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 16.4511986,
-        "posY": 0.959995568,
-        "posZ": 4.80007458,
-        "rotX": 9.627893E-05,
-        "rotY": 179.994385,
-        "rotZ": -0.000434146757,
+        "posX": 20.9761925,
+        "posY": 0.9599958,
+        "posZ": 13.1439247,
+        "rotX": 0.000101282254,
+        "rotY": 179.994431,
+        "rotZ": -0.00043524924,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -4985,12 +3023,12 @@
       "GUID": "3e8681",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 16.4007549,
+        "posX": 20.9257374,
         "posY": 1.05997515,
-        "posZ": 4.882992,
-        "rotX": 0.00153804419,
-        "rotY": 180.001053,
-        "rotZ": -0.0008136226,
+        "posZ": 13.2268362,
+        "rotX": 0.00154779258,
+        "rotY": 180.00116,
+        "rotZ": -0.000812386,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -5042,12 +3080,12 @@
       "GUID": "bf576e",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 18.2625771,
+        "posX": 22.7875633,
         "posY": 0.9599943,
-        "posZ": 4.79258871,
-        "rotX": 0.000117522854,
-        "rotY": 180.023727,
-        "rotZ": -0.000554196769,
+        "posZ": 13.1364136,
+        "rotX": 0.00011552863,
+        "rotY": 180.0241,
+        "rotZ": -0.0005542768,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -5099,12 +3137,12 @@
       "GUID": "f978bf",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 18.31821,
-        "posY": 1.0599705,
-        "posZ": 4.90277243,
-        "rotX": -0.00210485142,
+        "posX": 22.8431969,
+        "posY": 1.05997038,
+        "posZ": 13.2466087,
+        "rotX": -0.00210892921,
         "rotY": 180.023544,
-        "rotZ": -0.000268952746,
+        "rotZ": -0.000268586969,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -5156,12 +3194,12 @@
       "GUID": "352ec8",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 20.2241383,
-        "posY": 0.9599948,
-        "posZ": 4.8972373,
-        "rotX": 0.000113289614,
-        "rotY": 180.023819,
-        "rotZ": -0.0005228882,
+        "posX": 24.7491283,
+        "posY": 0.9599947,
+        "posZ": 13.2410622,
+        "rotX": 0.000107669912,
+        "rotY": 180.02417,
+        "rotZ": -0.000524350558,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -5213,12 +3251,12 @@
       "GUID": "c70cbb",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 20.2590065,
+        "posX": 24.7839966,
         "posY": 1.05997109,
-        "posZ": 5.00707674,
-        "rotX": -0.00215900713,
+        "posZ": 13.350915,
+        "rotX": -0.00216301414,
         "rotY": 179.999863,
-        "rotZ": -0.000315076933,
+        "rotZ": -0.0003137957,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -5270,12 +3308,12 @@
       "GUID": "1c6aa2",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 22.1590939,
-        "posY": 0.959994555,
-        "posZ": 4.919036,
-        "rotX": 0.000115448944,
-        "rotY": 180.023834,
-        "rotZ": -0.0005458299,
+        "posX": 26.68408,
+        "posY": 0.959994435,
+        "posZ": 13.2628622,
+        "rotX": 0.000116026677,
+        "rotY": 180.024155,
+        "rotZ": -0.000547463831,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -5327,12 +3365,12 @@
       "GUID": "955158",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": 22.1918316,
-        "posY": 1.05997,
-        "posZ": 4.973908,
-        "rotX": -0.00192273932,
-        "rotY": 179.9999,
-        "rotZ": -0.0004391263,
+        "posX": 26.7168179,
+        "posY": 1.0599699,
+        "posZ": 13.3177443,
+        "rotX": -0.00192334026,
+        "rotY": 179.999878,
+        "rotZ": -0.000437532,
         "scaleX": 0.7602123,
         "scaleY": 1.0,
         "scaleZ": 0.7602123
@@ -5384,10 +3422,10 @@
       "GUID": "2baadd",
       "Name": "DeckCustom",
       "Transform": {
-        "posX": -19.4229927,
+        "posX": -26.1587,
         "posY": 1.22644651,
-        "posZ": -1.02991974,
-        "rotX": 1.343654E-07,
+        "posZ": -8.471788,
+        "rotX": 1.80850648E-07,
         "rotY": 180.0,
         "rotZ": 180.0,
         "scaleX": 1.0,
@@ -5532,6 +3570,8 @@
           "Hands": true,
           "CardID": 100,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -5577,6 +3617,8 @@
           "Hands": true,
           "CardID": 101,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -5622,6 +3664,8 @@
           "Hands": true,
           "CardID": 102,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -5667,6 +3711,8 @@
           "Hands": true,
           "CardID": 103,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -5712,6 +3758,8 @@
           "Hands": true,
           "CardID": 104,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -5757,6 +3805,8 @@
           "Hands": true,
           "CardID": 105,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -5802,6 +3852,8 @@
           "Hands": true,
           "CardID": 106,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -5847,6 +3899,8 @@
           "Hands": true,
           "CardID": 107,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -5892,6 +3946,8 @@
           "Hands": true,
           "CardID": 108,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -5937,6 +3993,8 @@
           "Hands": true,
           "CardID": 109,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -5982,6 +4040,8 @@
           "Hands": true,
           "CardID": 110,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6027,6 +4087,8 @@
           "Hands": true,
           "CardID": 111,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6072,6 +4134,8 @@
           "Hands": true,
           "CardID": 112,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6117,6 +4181,8 @@
           "Hands": true,
           "CardID": 113,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6162,6 +4228,8 @@
           "Hands": true,
           "CardID": 114,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6207,6 +4275,8 @@
           "Hands": true,
           "CardID": 115,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6252,6 +4322,8 @@
           "Hands": true,
           "CardID": 116,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6297,6 +4369,8 @@
           "Hands": true,
           "CardID": 117,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6342,6 +4416,8 @@
           "Hands": true,
           "CardID": 118,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6387,6 +4463,8 @@
           "Hands": true,
           "CardID": 119,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6432,6 +4510,8 @@
           "Hands": true,
           "CardID": 120,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6477,6 +4557,8 @@
           "Hands": true,
           "CardID": 121,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6522,6 +4604,8 @@
           "Hands": true,
           "CardID": 122,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6567,6 +4651,8 @@
           "Hands": true,
           "CardID": 123,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6612,6 +4698,8 @@
           "Hands": true,
           "CardID": 124,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6657,6 +4745,8 @@
           "Hands": true,
           "CardID": 125,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6702,6 +4792,8 @@
           "Hands": true,
           "CardID": 126,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6747,6 +4839,8 @@
           "Hands": true,
           "CardID": 127,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6792,6 +4886,8 @@
           "Hands": true,
           "CardID": 128,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6837,6 +4933,8 @@
           "Hands": true,
           "CardID": 129,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6882,6 +4980,8 @@
           "Hands": true,
           "CardID": 130,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6927,6 +5027,8 @@
           "Hands": true,
           "CardID": 131,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -6972,6 +5074,8 @@
           "Hands": true,
           "CardID": 132,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7017,6 +5121,8 @@
           "Hands": true,
           "CardID": 133,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7062,6 +5168,8 @@
           "Hands": true,
           "CardID": 134,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7107,6 +5215,8 @@
           "Hands": true,
           "CardID": 135,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7152,6 +5262,8 @@
           "Hands": true,
           "CardID": 136,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7197,6 +5309,8 @@
           "Hands": true,
           "CardID": 137,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7242,6 +5356,8 @@
           "Hands": true,
           "CardID": 138,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7287,6 +5403,8 @@
           "Hands": true,
           "CardID": 139,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7332,6 +5450,8 @@
           "Hands": true,
           "CardID": 140,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7377,6 +5497,8 @@
           "Hands": true,
           "CardID": 141,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7422,6 +5544,8 @@
           "Hands": true,
           "CardID": 142,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7467,6 +5591,8 @@
           "Hands": true,
           "CardID": 143,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7512,6 +5638,8 @@
           "Hands": true,
           "CardID": 144,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7557,6 +5685,8 @@
           "Hands": true,
           "CardID": 145,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7602,6 +5732,8 @@
           "Hands": true,
           "CardID": 146,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7647,6 +5779,8 @@
           "Hands": true,
           "CardID": 147,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -7705,6 +5839,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -7762,6 +5897,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         },
         {
@@ -7819,6 +5955,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         }
       ]
@@ -7827,10 +5964,10 @@
       "GUID": "a05c8d",
       "Name": "DeckCustom",
       "Transform": {
-        "posX": -19.28621,
+        "posX": -26.0219173,
         "posY": 1.22644651,
-        "posZ": -4.73429728,
-        "rotX": 2.33149578E-07,
+        "posZ": -12.1761656,
+        "rotX": 1.33092541E-08,
         "rotY": 180.0,
         "rotZ": 180.0,
         "scaleX": 1.0,
@@ -7975,6 +6112,8 @@
           "Hands": true,
           "CardID": 200,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8020,6 +6159,8 @@
           "Hands": true,
           "CardID": 201,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8065,6 +6206,8 @@
           "Hands": true,
           "CardID": 202,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8110,6 +6253,8 @@
           "Hands": true,
           "CardID": 203,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8155,6 +6300,8 @@
           "Hands": true,
           "CardID": 204,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8200,6 +6347,8 @@
           "Hands": true,
           "CardID": 205,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8245,6 +6394,8 @@
           "Hands": true,
           "CardID": 206,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8290,6 +6441,8 @@
           "Hands": true,
           "CardID": 207,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8335,6 +6488,8 @@
           "Hands": true,
           "CardID": 208,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8380,6 +6535,8 @@
           "Hands": true,
           "CardID": 209,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8425,6 +6582,8 @@
           "Hands": true,
           "CardID": 210,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8470,6 +6629,8 @@
           "Hands": true,
           "CardID": 211,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8515,6 +6676,8 @@
           "Hands": true,
           "CardID": 212,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8560,6 +6723,8 @@
           "Hands": true,
           "CardID": 213,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8605,6 +6770,8 @@
           "Hands": true,
           "CardID": 214,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8650,6 +6817,8 @@
           "Hands": true,
           "CardID": 215,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8695,6 +6864,8 @@
           "Hands": true,
           "CardID": 216,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8740,6 +6911,8 @@
           "Hands": true,
           "CardID": 217,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8785,6 +6958,8 @@
           "Hands": true,
           "CardID": 218,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8830,6 +7005,8 @@
           "Hands": true,
           "CardID": 219,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8875,6 +7052,8 @@
           "Hands": true,
           "CardID": 220,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8920,6 +7099,8 @@
           "Hands": true,
           "CardID": 221,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -8965,6 +7146,8 @@
           "Hands": true,
           "CardID": 222,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9010,6 +7193,8 @@
           "Hands": true,
           "CardID": 223,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9055,6 +7240,8 @@
           "Hands": true,
           "CardID": 224,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9100,6 +7287,8 @@
           "Hands": true,
           "CardID": 225,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9145,6 +7334,8 @@
           "Hands": true,
           "CardID": 226,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9190,6 +7381,8 @@
           "Hands": true,
           "CardID": 227,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9235,6 +7428,8 @@
           "Hands": true,
           "CardID": 228,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9280,6 +7475,8 @@
           "Hands": true,
           "CardID": 229,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9325,6 +7522,8 @@
           "Hands": true,
           "CardID": 230,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9370,6 +7569,8 @@
           "Hands": true,
           "CardID": 231,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9415,6 +7616,8 @@
           "Hands": true,
           "CardID": 232,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9460,6 +7663,8 @@
           "Hands": true,
           "CardID": 233,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9505,6 +7710,8 @@
           "Hands": true,
           "CardID": 234,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9550,6 +7757,8 @@
           "Hands": true,
           "CardID": 235,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9595,6 +7804,8 @@
           "Hands": true,
           "CardID": 236,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9640,6 +7851,8 @@
           "Hands": true,
           "CardID": 237,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9685,6 +7898,8 @@
           "Hands": true,
           "CardID": 238,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9730,6 +7945,8 @@
           "Hands": true,
           "CardID": 239,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9775,6 +7992,8 @@
           "Hands": true,
           "CardID": 240,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9820,6 +8039,8 @@
           "Hands": true,
           "CardID": 241,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9865,6 +8086,8 @@
           "Hands": true,
           "CardID": 242,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9910,6 +8133,8 @@
           "Hands": true,
           "CardID": 243,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -9955,6 +8180,8 @@
           "Hands": true,
           "CardID": 244,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10000,6 +8227,8 @@
           "Hands": true,
           "CardID": 245,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10045,6 +8274,8 @@
           "Hands": true,
           "CardID": 246,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10090,6 +8321,8 @@
           "Hands": true,
           "CardID": 247,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10135,6 +8368,8 @@
           "Hands": true,
           "CardID": 248,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10180,6 +8415,8 @@
           "Hands": true,
           "CardID": 249,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10225,6 +8462,8 @@
           "Hands": true,
           "CardID": 250,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         }
@@ -10234,10 +8473,10 @@
       "GUID": "a308bf",
       "Name": "DeckCustom",
       "Transform": {
-        "posX": -19.1522388,
+        "posX": -25.8879471,
         "posY": 1.22644651,
-        "posZ": -8.441175,
-        "rotX": 7.98756759E-08,
+        "posZ": -15.8830442,
+        "rotX": 2.65387E-07,
         "rotY": 180.0,
         "rotZ": 180.0,
         "scaleX": 1.0,
@@ -10382,6 +8621,8 @@
           "Hands": true,
           "CardID": 300,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10427,6 +8668,8 @@
           "Hands": true,
           "CardID": 301,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10472,6 +8715,8 @@
           "Hands": true,
           "CardID": 302,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10517,6 +8762,8 @@
           "Hands": true,
           "CardID": 303,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10562,6 +8809,8 @@
           "Hands": true,
           "CardID": 304,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10607,6 +8856,8 @@
           "Hands": true,
           "CardID": 305,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10652,6 +8903,8 @@
           "Hands": true,
           "CardID": 306,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10697,6 +8950,8 @@
           "Hands": true,
           "CardID": 307,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10742,6 +8997,8 @@
           "Hands": true,
           "CardID": 308,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10787,6 +9044,8 @@
           "Hands": true,
           "CardID": 309,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10832,6 +9091,8 @@
           "Hands": true,
           "CardID": 310,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10877,6 +9138,8 @@
           "Hands": true,
           "CardID": 311,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10922,6 +9185,8 @@
           "Hands": true,
           "CardID": 312,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -10967,6 +9232,8 @@
           "Hands": true,
           "CardID": 313,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11012,6 +9279,8 @@
           "Hands": true,
           "CardID": 314,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11057,6 +9326,8 @@
           "Hands": true,
           "CardID": 315,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11102,6 +9373,8 @@
           "Hands": true,
           "CardID": 316,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11147,6 +9420,8 @@
           "Hands": true,
           "CardID": 317,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11192,6 +9467,8 @@
           "Hands": true,
           "CardID": 318,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11237,6 +9514,8 @@
           "Hands": true,
           "CardID": 319,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11282,6 +9561,8 @@
           "Hands": true,
           "CardID": 320,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11327,6 +9608,8 @@
           "Hands": true,
           "CardID": 321,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11372,6 +9655,8 @@
           "Hands": true,
           "CardID": 322,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11417,6 +9702,8 @@
           "Hands": true,
           "CardID": 323,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11462,6 +9749,8 @@
           "Hands": true,
           "CardID": 324,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11507,6 +9796,8 @@
           "Hands": true,
           "CardID": 325,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11552,6 +9843,8 @@
           "Hands": true,
           "CardID": 326,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11597,6 +9890,8 @@
           "Hands": true,
           "CardID": 327,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11642,6 +9937,8 @@
           "Hands": true,
           "CardID": 328,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11687,6 +9984,8 @@
           "Hands": true,
           "CardID": 329,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11732,6 +10031,8 @@
           "Hands": true,
           "CardID": 330,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11777,6 +10078,8 @@
           "Hands": true,
           "CardID": 331,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11822,6 +10125,8 @@
           "Hands": true,
           "CardID": 332,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11867,6 +10172,8 @@
           "Hands": true,
           "CardID": 333,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11912,6 +10219,8 @@
           "Hands": true,
           "CardID": 334,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -11957,6 +10266,8 @@
           "Hands": true,
           "CardID": 335,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12002,6 +10313,8 @@
           "Hands": true,
           "CardID": 336,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12047,6 +10360,8 @@
           "Hands": true,
           "CardID": 337,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12092,6 +10407,8 @@
           "Hands": true,
           "CardID": 338,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12137,6 +10454,8 @@
           "Hands": true,
           "CardID": 339,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12182,6 +10501,8 @@
           "Hands": true,
           "CardID": 340,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12227,6 +10548,8 @@
           "Hands": true,
           "CardID": 341,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12272,6 +10595,8 @@
           "Hands": true,
           "CardID": 342,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12317,6 +10642,8 @@
           "Hands": true,
           "CardID": 343,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12362,6 +10689,8 @@
           "Hands": true,
           "CardID": 344,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12407,6 +10736,8 @@
           "Hands": true,
           "CardID": 345,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12452,6 +10783,8 @@
           "Hands": true,
           "CardID": 346,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12497,6 +10830,8 @@
           "Hands": true,
           "CardID": 347,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12542,6 +10877,8 @@
           "Hands": true,
           "CardID": 348,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12587,6 +10924,8 @@
           "Hands": true,
           "CardID": 349,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12632,6 +10971,8 @@
           "Hands": true,
           "CardID": 350,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         }
@@ -12641,11 +10982,11 @@
       "GUID": "72b131",
       "Name": "DeckCustom",
       "Transform": {
-        "posX": 14.6376648,
+        "posX": 19.1626434,
         "posY": 1.22644651,
-        "posZ": -4.2663,
-        "rotX": -8.705793E-08,
-        "rotY": -1.02396953E-08,
+        "posZ": 4.07753944,
+        "rotX": -3.17303346E-07,
+        "rotY": 3.457903E-07,
         "rotZ": 180.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -12789,6 +11130,8 @@
           "Hands": true,
           "CardID": 400,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12834,6 +11177,8 @@
           "Hands": true,
           "CardID": 401,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12879,6 +11224,8 @@
           "Hands": true,
           "CardID": 402,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12924,6 +11271,8 @@
           "Hands": true,
           "CardID": 403,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -12969,6 +11318,8 @@
           "Hands": true,
           "CardID": 404,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13014,6 +11365,8 @@
           "Hands": true,
           "CardID": 405,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13059,6 +11412,8 @@
           "Hands": true,
           "CardID": 406,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13104,6 +11459,8 @@
           "Hands": true,
           "CardID": 407,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13149,6 +11506,8 @@
           "Hands": true,
           "CardID": 408,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13194,6 +11553,8 @@
           "Hands": true,
           "CardID": 409,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13239,6 +11600,8 @@
           "Hands": true,
           "CardID": 410,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13284,6 +11647,8 @@
           "Hands": true,
           "CardID": 411,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13329,6 +11694,8 @@
           "Hands": true,
           "CardID": 412,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13374,6 +11741,8 @@
           "Hands": true,
           "CardID": 413,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13419,6 +11788,8 @@
           "Hands": true,
           "CardID": 414,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13464,6 +11835,8 @@
           "Hands": true,
           "CardID": 415,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13509,6 +11882,8 @@
           "Hands": true,
           "CardID": 416,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13554,6 +11929,8 @@
           "Hands": true,
           "CardID": 417,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13599,6 +11976,8 @@
           "Hands": true,
           "CardID": 418,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13644,6 +12023,8 @@
           "Hands": true,
           "CardID": 419,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13689,6 +12070,8 @@
           "Hands": true,
           "CardID": 420,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13734,6 +12117,8 @@
           "Hands": true,
           "CardID": 421,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13779,6 +12164,8 @@
           "Hands": true,
           "CardID": 422,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13824,6 +12211,8 @@
           "Hands": true,
           "CardID": 423,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13869,6 +12258,8 @@
           "Hands": true,
           "CardID": 424,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13914,6 +12305,8 @@
           "Hands": true,
           "CardID": 425,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -13959,6 +12352,8 @@
           "Hands": true,
           "CardID": 426,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14004,6 +12399,8 @@
           "Hands": true,
           "CardID": 427,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14049,6 +12446,8 @@
           "Hands": true,
           "CardID": 428,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14094,6 +12493,8 @@
           "Hands": true,
           "CardID": 429,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14139,6 +12540,8 @@
           "Hands": true,
           "CardID": 430,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14184,6 +12587,8 @@
           "Hands": true,
           "CardID": 431,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14229,6 +12634,8 @@
           "Hands": true,
           "CardID": 432,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14274,6 +12681,8 @@
           "Hands": true,
           "CardID": 433,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14319,6 +12728,8 @@
           "Hands": true,
           "CardID": 434,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14364,6 +12775,8 @@
           "Hands": true,
           "CardID": 435,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14409,6 +12822,8 @@
           "Hands": true,
           "CardID": 436,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14454,6 +12869,8 @@
           "Hands": true,
           "CardID": 437,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14499,6 +12916,8 @@
           "Hands": true,
           "CardID": 438,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14544,6 +12963,8 @@
           "Hands": true,
           "CardID": 439,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14589,6 +13010,8 @@
           "Hands": true,
           "CardID": 440,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14634,6 +13057,8 @@
           "Hands": true,
           "CardID": 441,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14679,6 +13104,8 @@
           "Hands": true,
           "CardID": 442,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14724,6 +13151,8 @@
           "Hands": true,
           "CardID": 443,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14769,6 +13198,8 @@
           "Hands": true,
           "CardID": 444,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14814,6 +13245,8 @@
           "Hands": true,
           "CardID": 445,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14859,6 +13292,8 @@
           "Hands": true,
           "CardID": 446,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14904,6 +13339,8 @@
           "Hands": true,
           "CardID": 447,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14949,6 +13386,8 @@
           "Hands": true,
           "CardID": 448,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -14994,6 +13433,8 @@
           "Hands": true,
           "CardID": 449,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15039,6 +13480,8 @@
           "Hands": true,
           "CardID": 450,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         }
@@ -15048,11 +13491,11 @@
       "GUID": "ab4be9",
       "Name": "DeckCustom",
       "Transform": {
-        "posX": 14.6267223,
+        "posX": 19.151701,
         "posY": 1.22644651,
-        "posZ": -7.82947636,
-        "rotX": -3.13153151E-07,
-        "rotY": -1.676459E-06,
+        "posZ": 0.5143623,
+        "rotX": -3.15518378E-07,
+        "rotY": -1.27740327E-06,
         "rotZ": 180.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -15196,6 +13639,8 @@
           "Hands": true,
           "CardID": 500,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15241,6 +13686,8 @@
           "Hands": true,
           "CardID": 501,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15286,6 +13733,8 @@
           "Hands": true,
           "CardID": 502,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15331,6 +13780,8 @@
           "Hands": true,
           "CardID": 503,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15376,6 +13827,8 @@
           "Hands": true,
           "CardID": 504,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15421,6 +13874,8 @@
           "Hands": true,
           "CardID": 505,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15466,6 +13921,8 @@
           "Hands": true,
           "CardID": 506,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15511,6 +13968,8 @@
           "Hands": true,
           "CardID": 507,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15556,6 +14015,8 @@
           "Hands": true,
           "CardID": 508,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15601,6 +14062,8 @@
           "Hands": true,
           "CardID": 509,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15646,6 +14109,8 @@
           "Hands": true,
           "CardID": 510,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15691,6 +14156,8 @@
           "Hands": true,
           "CardID": 511,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15736,6 +14203,8 @@
           "Hands": true,
           "CardID": 512,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15781,6 +14250,8 @@
           "Hands": true,
           "CardID": 513,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15826,6 +14297,8 @@
           "Hands": true,
           "CardID": 514,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15871,6 +14344,8 @@
           "Hands": true,
           "CardID": 515,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15916,6 +14391,8 @@
           "Hands": true,
           "CardID": 516,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -15961,6 +14438,8 @@
           "Hands": true,
           "CardID": 517,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16006,6 +14485,8 @@
           "Hands": true,
           "CardID": 518,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16051,6 +14532,8 @@
           "Hands": true,
           "CardID": 519,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16096,6 +14579,8 @@
           "Hands": true,
           "CardID": 520,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16141,6 +14626,8 @@
           "Hands": true,
           "CardID": 521,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16186,6 +14673,8 @@
           "Hands": true,
           "CardID": 522,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16231,6 +14720,8 @@
           "Hands": true,
           "CardID": 523,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16276,6 +14767,8 @@
           "Hands": true,
           "CardID": 524,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16321,6 +14814,8 @@
           "Hands": true,
           "CardID": 525,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16366,6 +14861,8 @@
           "Hands": true,
           "CardID": 526,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16411,6 +14908,8 @@
           "Hands": true,
           "CardID": 527,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16456,6 +14955,8 @@
           "Hands": true,
           "CardID": 528,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16501,6 +15002,8 @@
           "Hands": true,
           "CardID": 529,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16546,6 +15049,8 @@
           "Hands": true,
           "CardID": 530,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16591,6 +15096,8 @@
           "Hands": true,
           "CardID": 531,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16636,6 +15143,8 @@
           "Hands": true,
           "CardID": 532,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16681,6 +15190,8 @@
           "Hands": true,
           "CardID": 533,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16726,6 +15237,8 @@
           "Hands": true,
           "CardID": 534,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16771,6 +15284,8 @@
           "Hands": true,
           "CardID": 535,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16816,6 +15331,8 @@
           "Hands": true,
           "CardID": 536,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16861,6 +15378,8 @@
           "Hands": true,
           "CardID": 537,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16906,6 +15425,8 @@
           "Hands": true,
           "CardID": 538,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16951,6 +15472,8 @@
           "Hands": true,
           "CardID": 539,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -16996,6 +15519,8 @@
           "Hands": true,
           "CardID": 540,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17041,6 +15566,8 @@
           "Hands": true,
           "CardID": 541,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17086,6 +15613,8 @@
           "Hands": true,
           "CardID": 542,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17131,6 +15660,8 @@
           "Hands": true,
           "CardID": 543,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17176,6 +15707,8 @@
           "Hands": true,
           "CardID": 544,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17221,6 +15754,8 @@
           "Hands": true,
           "CardID": 545,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17266,6 +15801,8 @@
           "Hands": true,
           "CardID": 546,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17311,6 +15848,8 @@
           "Hands": true,
           "CardID": 547,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17356,6 +15895,8 @@
           "Hands": true,
           "CardID": 548,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17401,6 +15942,8 @@
           "Hands": true,
           "CardID": 549,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17459,6 +16002,7 @@
             }
           },
           "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": ""
         }
       ]
@@ -17467,11 +16011,11 @@
       "GUID": "ce343b",
       "Name": "DeckCustom",
       "Transform": {
-        "posX": 14.60483,
-        "posY": 1.24570274,
-        "posZ": -0.7135778,
-        "rotX": 1.78504536E-08,
-        "rotY": 5.021023E-09,
+        "posX": 19.12981,
+        "posY": 1.24570262,
+        "posZ": 7.63026142,
+        "rotX": 1.15255807E-06,
+        "rotY": -8.430136E-06,
         "rotZ": 180.0,
         "scaleX": 1.0,
         "scaleY": 1.0,
@@ -17581,12 +16125,12 @@
           "GUID": "55e1b1",
           "Name": "Card",
           "Transform": {
-            "posX": 15.0873947,
-            "posY": 1.990558,
-            "posZ": -7.85601854,
-            "rotX": -5.008956E-06,
-            "rotY": 180.0,
-            "rotZ": 180.0,
+            "posX": 19.1155815,
+            "posY": 1.54988217,
+            "posZ": -2.29582644,
+            "rotX": -1.00945272E-05,
+            "rotY": 1.4518028E-07,
+            "rotZ": 180.000153,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -17616,11 +16160,24 @@
           "Sticky": true,
           "Tooltip": true,
           "GridProjection": false,
+          "HideWhenFaceDown": true,
           "Hands": true,
           "CardID": 600,
           "SidewaysCard": false,
-          "XmlUI": "",
-          "ContainedObjects": []
+          "CustomDeck": {
+            "6": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16872086274089659268/9CF6F4718BEAF33718E31E964D5606C92B73ECC1/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/15539911235131152673/0DA5FF5D3551EB86DC21A72633C978CA27D0E391/",
+              "NumWidth": 10,
+              "NumHeight": 6,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
         },
         {
           "GUID": "9f20fa",
@@ -17664,6 +16221,8 @@
           "Hands": true,
           "CardID": 601,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17709,6 +16268,8 @@
           "Hands": true,
           "CardID": 602,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17754,6 +16315,8 @@
           "Hands": true,
           "CardID": 603,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17799,6 +16362,8 @@
           "Hands": true,
           "CardID": 604,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17844,6 +16409,8 @@
           "Hands": true,
           "CardID": 605,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17889,6 +16456,8 @@
           "Hands": true,
           "CardID": 606,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17934,6 +16503,8 @@
           "Hands": true,
           "CardID": 607,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -17979,6 +16550,8 @@
           "Hands": true,
           "CardID": 608,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18024,6 +16597,8 @@
           "Hands": true,
           "CardID": 609,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18069,6 +16644,8 @@
           "Hands": true,
           "CardID": 610,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18114,6 +16691,8 @@
           "Hands": true,
           "CardID": 611,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18159,6 +16738,8 @@
           "Hands": true,
           "CardID": 612,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18204,6 +16785,8 @@
           "Hands": true,
           "CardID": 613,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18249,6 +16832,8 @@
           "Hands": true,
           "CardID": 614,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18294,6 +16879,8 @@
           "Hands": true,
           "CardID": 615,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18339,6 +16926,8 @@
           "Hands": true,
           "CardID": 616,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18384,6 +16973,8 @@
           "Hands": true,
           "CardID": 617,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18429,6 +17020,8 @@
           "Hands": true,
           "CardID": 618,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18474,6 +17067,8 @@
           "Hands": true,
           "CardID": 619,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18519,6 +17114,8 @@
           "Hands": true,
           "CardID": 620,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18564,6 +17161,8 @@
           "Hands": true,
           "CardID": 621,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18609,6 +17208,8 @@
           "Hands": true,
           "CardID": 622,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18654,6 +17255,8 @@
           "Hands": true,
           "CardID": 623,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18699,6 +17302,8 @@
           "Hands": true,
           "CardID": 624,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18744,6 +17349,8 @@
           "Hands": true,
           "CardID": 625,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18789,6 +17396,8 @@
           "Hands": true,
           "CardID": 626,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18834,6 +17443,8 @@
           "Hands": true,
           "CardID": 627,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18879,6 +17490,8 @@
           "Hands": true,
           "CardID": 628,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18924,6 +17537,8 @@
           "Hands": true,
           "CardID": 629,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -18969,6 +17584,8 @@
           "Hands": true,
           "CardID": 630,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19014,6 +17631,8 @@
           "Hands": true,
           "CardID": 631,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19059,6 +17678,8 @@
           "Hands": true,
           "CardID": 632,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19104,6 +17725,8 @@
           "Hands": true,
           "CardID": 633,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19149,6 +17772,8 @@
           "Hands": true,
           "CardID": 634,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19194,6 +17819,8 @@
           "Hands": true,
           "CardID": 635,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19239,6 +17866,8 @@
           "Hands": true,
           "CardID": 636,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19284,6 +17913,8 @@
           "Hands": true,
           "CardID": 637,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19329,6 +17960,8 @@
           "Hands": true,
           "CardID": 638,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19374,6 +18007,8 @@
           "Hands": true,
           "CardID": 639,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19419,6 +18054,8 @@
           "Hands": true,
           "CardID": 640,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19464,6 +18101,8 @@
           "Hands": true,
           "CardID": 641,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19509,6 +18148,8 @@
           "Hands": true,
           "CardID": 642,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19554,6 +18195,8 @@
           "Hands": true,
           "CardID": 643,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19599,6 +18242,8 @@
           "Hands": true,
           "CardID": 644,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19644,6 +18289,8 @@
           "Hands": true,
           "CardID": 645,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19689,6 +18336,8 @@
           "Hands": true,
           "CardID": 646,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19734,6 +18383,8 @@
           "Hands": true,
           "CardID": 647,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19779,6 +18430,8 @@
           "Hands": true,
           "CardID": 648,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19824,6 +18477,8 @@
           "Hands": true,
           "CardID": 649,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19869,6 +18524,8 @@
           "Hands": true,
           "CardID": 650,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19914,6 +18571,8 @@
           "Hands": true,
           "CardID": 651,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -19959,6 +18618,8 @@
           "Hands": true,
           "CardID": 652,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -20004,6 +18665,8 @@
           "Hands": true,
           "CardID": 653,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         },
@@ -20049,10 +18712,123 @@
           "Hands": true,
           "CardID": 654,
           "SidewaysCard": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
           "XmlUI": "",
           "ContainedObjects": []
         }
       ]
+    },
+    {
+      "GUID": "6ef9e1",
+      "Name": "Custom_Tile_Stack",
+      "Transform": {
+        "posX": 19.1028786,
+        "posY": 0.9100001,
+        "posZ": 15.2708883,
+        "rotX": 1.00494526E-06,
+        "rotY": 179.993866,
+        "rotZ": 4.59278567E-07,
+        "scaleX": 0.7602123,
+        "scaleY": 1.0,
+        "scaleZ": 0.7602123
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 25,
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10127632698118726917/BB940ABC33228F1488D5AB59F6D21989EA2D83D2/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 3,
+          "Thickness": 0.1,
+          "Stackable": true,
+          "Stretch": false
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    },
+    {
+      "GUID": "db7913",
+      "Name": "Custom_Board",
+      "Transform": {
+        "posX": -0.6502656,
+        "posY": 1.01883566,
+        "posZ": -0.0475126579,
+        "rotX": -5.27627572E-06,
+        "rotY": 270.000061,
+        "rotZ": 2.54547122E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.7867647,
+        "g": 0.7867647,
+        "b": 0.7867647
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": false,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": false,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": true,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/9241497475735473499/54F1574918E8F8A9F55828A7DBB3FBC0F81B53E4/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.794188857
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
     }
   ]
 }
